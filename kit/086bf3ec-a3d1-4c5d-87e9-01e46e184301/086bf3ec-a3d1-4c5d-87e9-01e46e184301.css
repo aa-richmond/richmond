@@ -1,0 +1,33 @@
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("../../t/1.css");
+  
+@font-face {
+  font-family: "FFDINMedium";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('FFDIN/FFDINMedium_normal_normal.woff2') format('woff2'), url('FFDIN/FFDINMedium_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "FFDINRegular";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('FFDIN/FFDINRegular_normal_normal.woff2') format('woff2'), url('FFDIN/FFDINRegular_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "FFDINLight";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('FFDIN/FFDINLight_normal_normal.woff2') format('woff2'), url('FFDIN/FFDINLight_normal_normal.woff') format('woff');
+}
+@font-face {
+  font-family: "FFDINBold";
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('FFDIN/FFDINBold_normal_normal.woff2') format('woff2'), url('FFDIN/FFDINBold_normal_normal.woff') format('woff');
+}
